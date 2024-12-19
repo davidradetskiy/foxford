@@ -19,6 +19,10 @@ ServiceDesk — это приложение, предназначенное дл
    ```bash
    docker-compose up --build
    ```
+3. Откройте браузер и перейдите по адресу:
+    ```bash
+    http://localhost:8000/docs
+    ```
 
 ## Использование
 
